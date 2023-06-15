@@ -1,0 +1,101 @@
+m Mercedes Urus Hibrid 02.10.2018 vanduta 2017 5 3324 45.6 1000000.0 MDL 500000.0 MDL
+m Nissan Qashqai Diesel 01.01.2017 inchiriata 2017 5 1123 54.6 150000.0 MDL 45000.0 MDL
+m Ford Mustang Benzină 2022.05.10 depozitat 2022 4 12345 2.3 35000.0 USD 100.0 USD
+m Toyota Camry Hibrid 2021.09.15 inchiriata 2018 5 54321 2.5 25000.0 EUR 80.0 EUR
+m BMW X5 Motorină 2023.01.02 depozitat 2023 7 67891 3.0 50000.0 EUR 120.0 EUR
+m Volkswagen Golf Benzină 2020.11.20 vanduta 2016 5 98765 1.8 18000.0 USD 70.0 USD
+m Mercedes-Benz C-Class Motorină 2022.07.08 depozitat 2022 4 24680 2.0 40000.0 EUR 110.0 EUR
+m Audi A4 Benzină 2021.03.30 reparatie 2019 5 13579 2.0 30000.0 USD 90.0 USD
+m Honda Civic Benzină 2023.04.18 reparatie 2023 5 76543 1.5 28000.0 EUR 100.0 EUR
+m Hyundai Elantra Hibrid 2020.08.05 inchiriata 2017 5 10203 1.6 20000.0 USD 80.0 USD
+m Kia Sportage Motorină 2022.12.12 vanduta 2022 5 45678 2.2 35000.0 EUR 100.0 EUR
+m Chevrolet Cruze Benzină 2021.06.25 parcata 2015 5 98767 1.4 15000.0 USD 60.0 USD
+m Nissan Qashqai Benzină 2023.02.14 depozitat 2023 5 56789 1.6 30000.0 EUR 90.0 EUR
+m Ford Focus Motorină 2020.10.01 inchiriata 2014 5 43210 1.6 12000.0 USD 50.0 USD
+m Toyota Rav4 Hibrid 2022.09.03 depozitat 2022 5 87654 2.5 38000.0 EUR 110.0 EUR
+m BMW 3-Series Benzină 2021.04.12 vanduta 2017 5 32109 2.0 25000.0 USD 80.0 USD
+m Volkswagen Passat Motorină 2023.05.27 parcata 2023 5 98769 2.0 35000.0 EUR 100.0 EUR
+m Mercedes-Benz E-Class Benzină 2020.12.08 vanduta 2016 5 10987 3.0 40000.0 USD 120.0 USD
+m Audi A3 Benzină 2022.06.15 parcata 2022 5 54322 1.8 28000.0 EUR 90.0 EUR
+m Honda Accord Hibrid 2021.02.28 vanduta 2018 5 67890 2.0 22000.0 USD 80.0 USD
+c Ginga Lilian str.Padurii-1A fara 0 cash 79204430 111111
+c Goldu Ion str.Dacia-20 advanced 19 credit 78433422 111112
+c Popescu Ion str.Principala-1 fara 35 credit 123456789 5
+c Ionescu Maria bd.Libertatii-10 advanced 35 cash 987654321 3
+c Dumitru Andrei aleea-Florilor-5 advanced 25 cash 555555555 2
+c Georgescu Elena str.Mihai-Viteazul-7 fara 60 credit 111111111 4
+c Stanescu Ana bd.Unirii-20 advanced 0 credit 999999999 1
+c Mihai Ioana str.Aviatorilor-15 advanced 0 cash 777777777 3
+c Dobre Adrian aleea-Liliacului-3 fara 7 credit 888888888 2
+c Radu Cristina str.Florilor-12 fara 0 cash 222222222 4
+c Constantin Gabriela bd.Victoriei-8 fara 30 cash 666666666 5
+c Voicu Marian str.Salcamilor-4 advanced 55 cash 444444444 1
+c Dragan Mihaela bd.Dacia-25 advanced 20 credit 333333333 4
+c Tudor Simona aleea-Castanilor-2 advanced 0 credit 777777777 2
+c Balan Lucian str.Stejarului-6 fara 28 cash 555555555 1
+c Petrescu Andreea bd.Muncii-0 advanced 45 credit 888888888 3
+c Marin Alexandru aleea-Plopilor-9 fara 10 cash 777777777 2
+c Iorga Diana str.Zorilor-18 fara 0 credit 555555555 1
+c Nisto Catalin bd.Traian-22 fara 90 credit 888888888 3
+c Vasilescu Laura aleea-Teiului-11 fara 0 cash 222222222 4
+c Munteanu Gabriel str.Crizantemelor-14 fara 0 credit 666666666 5
+c Avram Ana-Maria bd.Independentei-16 fara 21 credit 444444444 1
+cr AutoRepair rate
+cr AutoFix-Moldova rate
+cr ExpertAuto-Service imediat
+cr CarCare-Moldova rate
+cr ProService-Auto imediat
+cr Moldova-Garage imediat
+cr AutoTech-Solutions rate
+cr QuickFix-Reparatii Auto imediat
+cr DriveSafe-Service-Center rate
+cr CarWizard-Moldova rate
+cr Speedy-Auto-Repair imediat
+cr FixIt-Auto-Service imediat
+cr AutoPro-Reparatii rate
+cr Moldova-Car-Clinic imediat
+cr MasterGarage-Moldova rate
+cr CarCare-Pro rate
+cr AutoTech-Reparatii imediat
+cr TopGear-Service-Center rate
+cr FixMyCar-Moldova rate
+cr ProAuto-Reparatii rate
+cr AutoCare-Moldova rate
+f Filiala-Chisinau-Centru str.Independentei-1 Popescu Ion 123456789
+f Filiala-Chisinau-Nord bd.Stefan-cel-Mare-10 Ionescu Maria 987654321
+f Filiala-Chisinau-Sud str.Alba-Iulia-5 Dumitru Andrei 555555555
+f Filiala-Balti bd.Decebal-7 Georgescu Elena 111111111
+f Filiala-Cahul str.Vasile-Alecsandri-20 Stanescu Ana 999999999
+f Filiala-Orhei bd.Stefan-cel-Mare-15 Mihai Ioana 777777777
+f Filiala-Soroca str.Mihai-Eminescu-3 Dobre Adrian 888888888
+f Filiala-Tiraspol bd.25-Octombrie-12 Radu Cristina 222222222
+f Filiala-Ungheni str.Alexandru-cel-Bun-8 Constantin Gabriela 666666666
+f Filiala-Hincesti bd.Mihai-Eminescu-4 Voicu Marian 444444444
+f Filiala-Causeni str.Victoriei-6 Dragan Mihaela 333333333
+f Filiala-Calaras bd.Republicii-10 Tudor Simona 777777777
+f Filiala-Drochia str.1-Mai-2 Balan Lucian 555555555
+f Filiala-Edinet bd.Stefan-cel-Mare-30 Petrescu Andreea 888888888
+f Filiala-Leova str.Lenin-9 Marin Alexandru 777777777
+f Filiala-Rezina bd.Decebal-15 Iorga Diana 555555555
+f Filiala-Singerei str.Mihai-Viteazul-22 Nistor Catalin 888888888
+f Filiala-Straseni bd.Cetatea-Alba-11 Vasilescu Laura 222222222
+f Filiala-Taraclia str.Stefan-cel-Mare-14 Munteanu Gabriel 666666666
+f Filiala-Vulcanesti bd.Decebal-16 Avram Ana-Maria 444444444
+lcm Ginga Lilian cumparare 3324 0
+lcm Goldu Ion inchiriere 1123 19
+lcm Ionescu Maria inchiriere 54321 35
+lcm Stanescu Ana cumparare 98765 0
+lcm Dragan Mihaela inchiriere 10203 20
+lcm Tudor Simona cumparare 45678 0
+lcm Petrescu Andreea inchiriere 43210 45
+lcm Iorga Diana cumparare 32109 0
+lcm Vasilescu Laura cumparare 10987 0
+lcm Munteanu Gabriel cumparare 67890 0
+lrm Moldova-Garage 13579 19
+lrm CarCare-Pro 76543 20
+m Mercedes Urus benzina 20.04.2016 depozitat 2015 5 1 2.5 15000.0 MDL 750.0 USD
+c Timos Teodor bd.Dacia-20 fara 0 credit 1010101010 10199
+lcm Timos Teodor cumparare 10987 0
+cr AutoDoctor rate
+lrm CarWizard-Moldova 13579 25
+f Filiala-Buiucani str.Nicolae-H.-Costin-61 Ginga Lilian 123123123
